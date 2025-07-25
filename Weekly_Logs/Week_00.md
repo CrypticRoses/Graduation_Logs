@@ -1,7 +1,7 @@
-Week 0 – Friday, 25/07/2025
+Friday(25/07/2025)
 ✅ Tasks Completed
-    Set up the 2025-Graduation-Logs GitHub repository to document learning and development progress ahead of full-time employment.
-    Established a clear and organized folder structure:
+    -Set up the 2025-Graduation-Logs GitHub repository to document learning and development progress ahead of full-time employment.
+    -Established a clear and organized folder structure:
      
         Weekly_Logs/
         TryHackMe_Notes/
@@ -26,7 +26,7 @@ Week 0 – Friday, 25/07/2025
   -Clarifying GitHub usage, adjusting the directory layout, and defining the weekly log format will streamline updates and make the repo more maintainable. Time was also allocated to defining goals and preparing for technical hands-on work beginning next week.
 
 📌 Next Steps
-🔔 Immediate Tasks for Monday, 29/07/2025
+🔔 Immediate Tasks for Monday (28/07/2025)
     -Begin practical work on introductory AWS cloud labs (e.g. IAM or VPC basics).
     -Complete a beginner-level TryHackMe or Hack The Box room and document findings.
     -Outline a weekly study plan that accounts for known scheduling constraints.
