@@ -1,5 +1,6 @@
 Objectives[Verbatem from the website:
  https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7
+   
     Describe fundamental functions and benefits of the AWS Cloud.
     Explain how virtual compute resources are provisioned and managed in the AWS Cloud.
     Explain how AWS compute services support scalable, serverless application environments.
