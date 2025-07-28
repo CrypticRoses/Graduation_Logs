@@ -1,5 +1,5 @@
 Objectives[Verbatem from the website:
- https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7
+ https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/
    
     Describe fundamental functions and benefits of the AWS Cloud.
     Explain how virtual compute resources are provisioned and managed in the AWS Cloud.
@@ -14,3 +14,4 @@ Objectives[Verbatem from the website:
     Describe fundamental concepts, services, and features of AWS Pricing and AWS Support.
     Describe AWS migration strategies and services.
     Describe specialized AWS services and the six pillars of the AWS Well-Architected Framework.
+8D79F3AVR7
