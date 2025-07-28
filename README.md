@@ -7,6 +7,7 @@ The planned strucutre of my repo is show below:
 ├── README.md                ← Overview of my repo
 ├── weekly-logs/             ← Weekly progress logs and reflections
 │   └── week-0.md
+├── hackthebox-notes/        ← Notes and walkthroughs for HackTheBox Modules
 ├── tryhackme-notes/         ← Notes and walkthroughs for TryHackMe rooms
 ├── cloud-labs/              ← Hands-on AWS/cloud learning notes
 ```
