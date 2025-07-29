@@ -36,7 +36,11 @@ Friday(25/07/2025)
      -Use available time to refine and tailor the CV for internship applications while awaiting final graduation classification.  
      -LinkedIn Premium will be explored at a later stage, once technical fundamentals have been re-established and relocation is complete.           
 
+Saturday & Sunday (26/07/2025) & (27/07/2025)
 
-
-  Monday(28/07/2025)  
+Monday (28/07/2025)  
 Insert logs for today here tmr, basically just checking resources.
+
+Tuesday (29/07/2025):
+Day logs for today
+
