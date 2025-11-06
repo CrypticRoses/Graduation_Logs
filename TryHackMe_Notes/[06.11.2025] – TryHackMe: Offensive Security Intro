@@ -1,0 +1,22 @@
+
+Goal: Revise enumeration concepts and refresh use of Gobuster-[https://github.com/OJ/gobuster]
+
+Commands / Tools:
+– gobuster dir -u http://bank.thm -w /usr/share/wordlists/dirb/common.txt  
+  → Discovered hidden endpoint: /secret_transfer
+
+Findings / Observations:
+– Simulated transfer feature on the hidden page allowed moving 2000 from victim account to my account in the lab (controlled environment).
+– Demonstrated lack of access control on exposed endpoints.
+
+Concepts / Theory:
+– Enumeration = mapping services, directories and endpoints after initial discovery.
+– Ethical testing requires controlled environments and responsible reporting.
+
+Reflections / Insights:
+– Reinforced practical value of directory brute-forcing in early recon.
+– Felt confident applying the tools after a short refresher.
+
+To-Do / Follow-Up:
+– Continue with the pre-security learning path and revisit foundational topics as I progress
+– Keep a short list of commands and concepts to expand into deeper notes later
