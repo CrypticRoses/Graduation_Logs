@@ -1,0 +1,33 @@
+Goal: Review defensive security fundamentals, malware types, and incident response concepts.
+
+Topics / Key Points:
+– Blue Team: monitors networks and systems for malicious events.
+– DFIR = Digital Forensics & Incident Response.
+– Threat: any action that can disrupt or adversely affect a system.
+– Incident: can be a breach, intrusion attempt, misconfiguration, or policy violation.
+– Incident response: structured methodology for handling incidents.
+– Incident response lifecycle: Preparation, Detection & Analysis, Containment, Eradication & Recovery, Post-Incident Activity.
+– Malware:
+   * Virus – attaches to programs, spreads by altering/overwriting/deleting files.
+   * Trojan – shows legitimate function, hides malicious behavior.
+   * Ransomware – encrypts files, demands payment for decryption.
+– Analysis methods:
+   * Static analysis – inspect code without execution; requires assembly knowledge.
+   * Dynamic analysis – run malware in controlled environment to observe behavior.
+– Open-source intelligence (OSINT) for IPs: AbuseIPDB, Cisco Talos, reputation and geolocation checks.
+– Knowledge check answers confirmed:
+   * Blue Team monitors network events.
+   * DFIR = Digital Forensics & Incident Response.
+   * Ransomware requires payment to regain file access.
+
+Reflections:
+– Defensive operations complement offensive skills.  
+– Intelligence gathering, incident response, and malware understanding are tightly interconnected.  
+– Static vs dynamic analysis provides different insights; both are essential.  
+– OSINT tools provide fast context and validation during investigations.
+
+To-Do / Follow-Up:
+– Continue Pre-Security path, complete remaining Defensive Security Intro modules.  
+– Compile notes on OSINT and malware analysis for reference.  
+– Practice applying IP reputation checks in a safe lab environment.  
+– Begin visualizing incident response lifecycle for quick reference.
